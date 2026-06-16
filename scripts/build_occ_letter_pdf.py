@@ -2,7 +2,7 @@
 """Build the SR-OCC-2025-801 letter PDF from markdown.
 
 This renderer is intentionally small and local to the repo. It supports the
-formatting needed for the final OCC comment: first-page WhyDRS mark, Times
+formatting needed for the final OCC comment: first-page WhyDRS logo, Times
 fonts, legal-style section numbering, page footnotes with continuation, and
 basic markdown inline emphasis.
 """
@@ -137,9 +137,10 @@ def extract_footnotes(markdown: str) -> tuple[str, dict[str, str]]:
 class OccPdfRenderer:
     url_re = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 
-    def __init__(self, source: Path, output: Path):
+    def __init__(self, source: Path, output: Path, logo: Path | None = None):
         self.source = source
         self.output = output
+        self.logo = logo
         self.order: list[str] = []
         self.nums: dict[str, int] = {}
 
@@ -483,8 +484,26 @@ class OccPdfRenderer:
         canvas.saveState()
         canvas.setStrokeColor(colors.HexColor("#1F2937"))
         canvas.setLineWidth(0.7)
-        canvas.setFont("Times-Bold", 18)
-        canvas.drawString(doc.leftMargin, self.page_height - 0.58 * inch, "WhyDRS")
+        if self.logo and self.logo.exists():
+            with PILImage.open(self.logo) as image:
+                width, height = image.size
+            target_width = 1.55 * inch
+            target_height = target_width * height / width
+            if target_height > 0.42 * inch:
+                target_height = 0.42 * inch
+                target_width = target_height * width / height
+            canvas.drawImage(
+                str(self.logo),
+                doc.leftMargin,
+                self.page_height - 0.63 * inch,
+                width=target_width,
+                height=target_height,
+                preserveAspectRatio=True,
+                mask="auto",
+            )
+        else:
+            canvas.setFont("Times-Bold", 18)
+            canvas.drawString(doc.leftMargin, self.page_height - 0.58 * inch, "WhyDRS")
         canvas.line(
             doc.leftMargin,
             self.page_height - 0.78 * inch,
@@ -594,9 +613,15 @@ def main() -> int:
         default=Path("SR-OCC-2025-801/SR-OCC-2025-801-WhyDRS-letterhead.pdf"),
         help="PDF output path",
     )
+    parser.add_argument(
+        "--logo",
+        type=Path,
+        default=Path("SR-OCC-2025-801/imgs/whydrs-full-logo.png"),
+        help="First-page WhyDRS logo image",
+    )
     args = parser.parse_args()
 
-    renderer = OccPdfRenderer(args.source, args.output)
+    renderer = OccPdfRenderer(args.source, args.output, args.logo)
     pages, footnotes, continuations = renderer.build()
     print(args.output)
     print(f"pages: {pages}")
