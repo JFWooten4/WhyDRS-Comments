@@ -206,3 +206,6 @@ For my last opolcie officer alanolgy, there will alwyas be arigmentas that a def
 [^34]: See coffeezilla dir on melaia. Timestamps if time suffices
 
 [^35]: Which in our contetxt may be equivenlent to competetive market statndng, plotitical idealol/ices, or persnoal animus. I find tho last coaategory nullinkely, as even the centetnoiss staff cases which lose in courttend to have strong metirts on the factss and cirmustances. My constutitents have made me much more avware of vindettas and disingenuous prosecttoins in tehre brachecs fo the goverment such as teh DOJJ, whe wolud not have open access to the CAT data. ANd even if an SRO regulatuory memebr had such aims, they carry onlly liminted nonbinding atuhority frem {DIR CITE FINRA 20088 case penal} which has a llong histeroy of unbiased aadminintsstirtve vpreedeenigns.
+
+# 
+
