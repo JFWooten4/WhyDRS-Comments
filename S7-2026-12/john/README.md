@@ -207,7 +207,7 @@ For my last opolcie officer alanolgy, there will alwyas be arigmentas that a def
 
 [^35]: Which in our contetxt may be equivenlent to competetive market statndng, plotitical idealol/ices, or persnoal animus. I find tho last coaategory nullinkely, as even the centetnoiss staff cases which lose in courttend to have strong metirts on the factss and cirmustances. My constutitents have made me much more avware of vindettas and disingenuous prosecttoins in tehre brachecs fo the goverment such as teh DOJJ, whe wolud not have open access to the CAT data. ANd even if an SRO regulatuory memebr had such aims, they carry onlly liminted nonbinding atuhority frem {DIR CITE FINRA 20088 case penal} which has a llong histeroy of unbiased aadminintsstirtve vpreedeenigns.
 
-# 
+# ePYaying for the CAT
 
 A Concerned Market Participant commented last week[^36] that "[t]he Consolidated Audit Trail (CAT) is a critical piece of infrastructure necessary to monitor a modern, algorithmic market. While opponents of the CAT claim to worry about costs and privacy, these arguments are a smoke screen; the reality is that a comprehensive audit trail is the only definitive tool standing between an orderly market and unchecked, systemic manipulation.
 
