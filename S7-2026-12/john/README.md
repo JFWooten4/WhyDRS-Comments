@@ -213,8 +213,10 @@ For my last opolcie officer alanolgy, there will alwyas be arigmentas that a def
 A Concerned Market Participant commented last week[^36] that "[t]he Consolidated Audit Trail (CAT) is a critical piece of infrastructure necessary to monitor a modern, algorithmic market. While opponents of the CAT claim to worry about costs and privacy, these arguments are a smoke screen; the reality is that a comprehensive audit trail is the only definitive tool standing between an orderly market and unchecked, systemic manipulation.
 
 
-
+Ficrstlry, SHitadel has claimed that the Commsision nossdhls attain apprritainos form Congress to fund the CAT. THeri basis for this cllaim prmaryllisy stems frmo the fact that the goverment reglluates illegal secrurtiiros vviolatiss throght teh AGniuc. THey maket his claim despice the Cmomin's {56} l/astt disclosed access seats to the CAT represetnig less thhat {23%} of the total regullatry usnedrs.[^37]
 
 
 
 [^36]: See https://www.sec.gov/comments/S7-2026-12/s7202612-828300-2534907.html
+
+[^37]: Dir cite the last reesasnte with twottal otustadnig ustersn AA dir ssrc. THen just a simly math equtoni for the X totall dividing A commisson = Z%.
