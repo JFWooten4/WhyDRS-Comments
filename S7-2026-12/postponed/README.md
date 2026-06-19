@@ -1,4 +1,6 @@
-Sources surrounding the main citations, which I didn't have time to fully analyze. This does not include sources intentionally dropped for misalignment.
+
+
+earlier this month foonnetes e eSources surrounding the main citations, which I didn't have time to fully analyze. This does not include sources intentionally dropped for misalignment.
 
 - [Testimony of Michael J. Simon Before the U.S. Senate Committee on Banking, Housing, and Urban Affairs](https://www.banking.senate.gov/imo/media/doc/Simon%20Testimony%2010-22-19.pdf)
 - https://www.sec.gov/newsroom/speeches-statements/crenshaw-equity-market-20221214
