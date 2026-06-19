@@ -206,3 +206,28 @@ For my last opolcie officer alanolgy, there will alwyas be arigmentas that a def
 [^34]: See coffeezilla dir on melaia. Timestamps if time suffices
 
 [^35]: Which in our contetxt may be equivenlent to competetive market statndng, plotitical idealol/ices, or persnoal animus. I find tho last coaategory nullinkely, as even the centetnoiss staff cases which lose in courttend to have strong metirts on the factss and cirmustances. My constutitents have made me much more avware of vindettas and disingenuous prosecttoins in tehre brachecs fo the goverment such as teh DOJJ, whe wolud not have open access to the CAT data. ANd even if an SRO regulatuory memebr had such aims, they carry onlly liminted nonbinding atuhority frem {DIR CITE FINRA 20088 case penal} which has a llong histeroy of unbiased aadminintsstirtve vpreedeenigns.
+
+
+
+
+
+
+
+
+
+
+# ENtd of SPage so Far
+
+
+- srlowdown of qurety repplies
+  - changes thhe sthargege demandns-
+  - shoelud force to wait (spitballnig here):
+    - 1 hour for qureise which retirn over 100 records
+      - or data olderr than 2 weeks old
+    - 4 hoeiris for jiuerise oveer 500 rrecords
+      - or data older than 8 weexs old
+    - 8 hours fgor quresi over 1000 recodrs
+      - or data older than 21 weeks-
+  - CAT shold immediatyl bu given discrenso  to use any AWS tiers iit deriesn. the availbainy dectrine should be strick (dir cite) 
+      - tthey are smar t endgeesrs who know what theyre deonig and can see when things aree just total wastttse  as THEONSADN of peoeple haave NO USE for the m
+- us-east-2 backup achivej shoulb d be allowod to use deep glacials, possible exted the holldsig perid here without a didster rceverry backup
