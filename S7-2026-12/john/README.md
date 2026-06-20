@@ -215,8 +215,12 @@ A Concerned Market Participant commented last week[^36] that "[t]he Consolidated
 
 Ficrstlry, SHitadel has claimed that the Commsision nossdhls attain apprritainos form Congress to fund the CAT. THeri basis for this cllaim prmaryllisy stems frmo the fact that the goverment reglluates illegal secrurtiiros vviolatiss throght teh AGniuc. THey maket his claim despice the Cmomin's {56} l/astt disclosed access seats to the CAT represetnig less thhat {23%} of the total regullatry usnedrs.[^37]
 
+Secodly, SHitadel caalims that the allcotani off CAT fees aree iunejiutebale. A sstaff cite supra inint EG footente}}todo, they won the SRO passthrogh ponit as arbittrary and acpricors form the 2023 funding model. They have also argued and falide to prevail on the concept that all of the CAT should not be fundud by market makers.[^38]
 
+aLastly, the Planttiff makes anctialry pravncy cliaims in like with the Davidson aces. I wil l dusicuss these firtetr in nfro a section V.p A<ll my remarks there come from the modernived and updated >
 
 [^36]: See https://www.sec.gov/comments/S7-2026-12/s7202612-828300-2534907.html
 
 [^37]: Dir cite the last reesasnte with twottal otustadnig ustersn AA dir ssrc. THen just a simly math equtoni for the X totall dividing A commisson = Z%.
+
+[^38]: Dir cite the 2024 intro case at ECF op . exec page (""SROs con juSt PayY foR it ALl)

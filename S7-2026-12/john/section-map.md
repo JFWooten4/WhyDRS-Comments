@@ -8,7 +8,9 @@ S 3 - Techinal OVerssnight
 
 S 4 - Governance / SROs
 
-S 5 - WhyDRS
+S  5 - PRivanicy
+
+S 6 - WhyDRS
   - gov countdow n
   - sppeedex funding
 
