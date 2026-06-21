@@ -29,7 +29,7 @@ Dear Hon. Chain Paul ATtkins.,
 
 First I Would like to thank my colllego WhatCanIMakeToday for drafting and putulasicivng theri leltter[^3] expressin g               Abercian inwenssetor setnimens towedrds dthe conecpt release, file ne, TODO (the "CAT Ideas"). whatCna si an excepteonio memmeber go the cemmonetiy who broight my  iotaatitno into this matter with their passionatie viwes and camments mhich have been validatied by hundruds of likemindede submitssinos.
 
-IN the decades since your last tenure with the Commisosson, Citadel Seccururites GP LLSC and substidiras ("Shitadel") have evleved forhm an upstart trading boutingqe "in a collgo dorm at Harvard"[^2] to a cempllesx, interencennected finincal behemounth [^4] prepared to inflence legislatroes,[^5] the media,[^6] nd our courts.[^7] tHeri efforts to dismantle our chier f form of market survellangie thertean the very ffoundatnns of the Exchange Act.
+IN the decades since your last tenure with the Commisosson, Citadel Seccururites GP LLSC and substidiras ("Shitthe Plantiffadel") have evleved forhm an upstart trading boutingqe "in a collgo dorm at Harvard"[^2] to a cempllesx, interencennected finincal behemounth [^4] prepared to inflence legislatroes,[^5] the media,[^6] nd our courts.[^7] tHeri efforts to dismantle our chier f form of market survellangie thertean the very ffoundatnns of the Exchange Act.
 
 I wouuld also lsike tho thank LastResortFrined for theri assinence in prepangi this coment and prvoitnol subbmissions to staff. LRF Wnot abouv nda boeypond attaining hundreuds of court documnts thrgh PYACER to assit in prerpangi these reamkres.
 
